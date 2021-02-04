@@ -34,5 +34,6 @@ $conf['ldap.test']['pwd'] = "xxxxxxxxxxxxxx";
 
 $conf['ldap.dn']['people'] = "ou=people,dc=univ-paris1,dc=fr";
 
+$conf['rocket.chat']['url'] = 'https://rocketchat.univ.fr';
 
 ?>
